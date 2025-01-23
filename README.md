@@ -37,3 +37,6 @@ This web application visualizes global earthquake data using Leaflet.js to creat
   - Size indicates magnitude
   - Color indicates depth
 - Legend shows depth ranges and corresponding colors
+
+## Resources
+- For this project I used class files for module 15 as well as Claude to create my code
